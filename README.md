@@ -7,23 +7,23 @@
 
 ### 🛠 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=3776AB)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
-![Numpy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=013243)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=FF6F00)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-FFFFFF?style=flat&logo=pandas&logoColor=150458)&nbsp;
+![Numpy](https://img.shields.io/badge/-NumPy-FFFFFF?style=flat&logo=numpy&logoColor=013243)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFFFFF?style=flat&logo=matplotlib&logoColor=FF6F00)&nbsp;
 ![Seaborn]
 
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Colaboratory](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab&logoColor=F9AB00)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FFFFFF?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
+![Colaboratory](https://img.shields.io/badge/-Google%20Colab-FFFFFF?style=flat&logo=googlecolab&logoColor=F9AB00)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github)
 
-![Java](https://img.shields.io/badge/-Java8-05122A?style=flat&logo=java&logoColor=007396)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java8-FFFFFF?style=flat&logo=java&logoColor=007396)&nbsp;
+![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Javascript-FFFFFF?style=flat&logo=javascript)&nbsp;
 
 
 ### ⚙️ GitHub Analytics
