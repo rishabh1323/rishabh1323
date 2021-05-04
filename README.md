@@ -6,12 +6,12 @@
 
 
 ### 🛠 Languages and Tools
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
+![Python](https://img.shields.io/badge/-Python-EEEFF?style=flat&logo=python&logoColor=3776AB)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
-![Numpy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpyl&logoColor=013243)&nbsp;
+![Numpy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=013243)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![Matplotlib]
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=FF6F00)&nbsp;
 ![Seaborn]
 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
