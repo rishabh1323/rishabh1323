@@ -12,12 +12,12 @@
 ![Numpy](https://img.shields.io/badge/-NumPy-FFFFFF?style=flat&logo=numpy&logoColor=013243)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFFFFF?style=flat&logo=matplotlib&logoColor=FF6F00)&nbsp;
-![Seaborn]
+![Seaborn](https://img.shields.io/badge/-Seaborn-FFFFFF?style=flat&logo=seaborn&logoColor=FF6F00)&nbsp;
 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FFFFFF?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Colaboratory](https://img.shields.io/badge/-Google%20Colab-FFFFFF?style=flat&logo=googlecolab&logoColor=F9AB00)&nbsp;
+![Colaboratory](https://img.shields.io/badge/-Google%20Colab-FFFFFF?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=050F2C)
 
 ![Java](https://img.shields.io/badge/-Java8-FFFFFF?style=flat&logo=java&logoColor=007396)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
