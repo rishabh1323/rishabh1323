@@ -6,7 +6,7 @@
 
 
 ### 🛠 Languages and Tools
-![Python](https://img.shields.io/badge/-Python-EEEFF?style=flat&logo=python&logoColor=3776AB)&nbsp;
+![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=3776AB)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
 ![Numpy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=013243)&nbsp;
