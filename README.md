@@ -36,20 +36,21 @@
 
 ### 🤝🏻 Want to Connect?
 <p align="center">
+  
 <a href="https://twitter.com/Rishabh1323">
-  <img align="left" alt="Hemang's Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://archive.org/download/github-readme-icons/twitter-icon.png" />
 </a>
 <a href="https://www.linkedin.com/in/rishabh-dingliwal/">
-  <img align="left" alt="Hemang's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://archive.org/download/github-readme-icons/linkedin-icon.png" />
 </a>
 <a href="https://github.com/rishabh1323">
-  <img align="left" alt="Hemang's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
+  <img align="left" alt="GitHub" width="22px" src="https://archive.org/download/github-readme-icons/github-icon.png" />
 </a>
 <a href="https://www.instagram.com/rishabh_dingliwal/">
-  <img align="left" alt="Hemang's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://archive.org/download/github-readme-icons/instagram-icon.png" />
 </a>
 <a href="https://www.facebook.com/rishabh.dingliwal.1323">
-  <img align="left" alt="Hemang's Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409943.svg"  class="white" />
+  <img align="left" alt="Facebook" width="22px" src="https://archive.org/download/github-readme-icons/facebook-icon.png" />
 </a>
 
 <!--
