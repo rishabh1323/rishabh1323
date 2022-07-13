@@ -1,6 +1,8 @@
 ### **Hello, I'm Rishabh Dingliwal** 👋
 
 ### 👨🏻‍💻 About Me
+💻 Associate Software Developer <br>
+📈 Data Science Enthusiast <br>
 🎓 B.Tech from Delhi Technological University 2018-2022.
 
 
@@ -17,6 +19,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FFFFFF?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Colaboratory](https://img.shields.io/badge/-Google%20Colab-FFFFFF?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-FFFFFF?style=flat&logo=pycharm&logoColor=000000)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=050F2C)
 
 ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=java&logoColor=007396)&nbsp;
@@ -24,6 +27,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Javascript-FFFFFF?style=flat&logo=javascript)
+
+![Windows](https://img.shields.io/badge/-Windows-FFFFFF?style=flat&logo=windows&logoColor=0078D6)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux&logoColor=000000)
 
 
 ### ⚙️ GitHub Analytics
